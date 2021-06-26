@@ -1,4 +1,5 @@
 title: Good Shit!
+theme: minima
 author: dewitt4
 email: dewitt@hallsonic.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -8,5 +9,3 @@ twitter_username: your-twitter-handle none
 github_username:  your-github-handle dewittg
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
